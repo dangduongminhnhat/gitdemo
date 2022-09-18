@@ -1,4 +1,8 @@
 Name: Minh Nhật
 Hobby: Ngọc Yến
 Love
+<<<<<<< HEAD
 sửa trên máy
+=======
+Sửa trên mạng
+>>>>>>> 088761cb5da91647d42599f0222fe5cec4f2dc67
